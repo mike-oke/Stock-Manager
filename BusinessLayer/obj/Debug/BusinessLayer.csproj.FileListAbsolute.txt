@@ -1,0 +1,4 @@
+C:\SOAWithWCFandLINQ\StockManagementSystem\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\SOAWithWCFandLINQ\StockManagementSystem\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\SOAWithWCFandLINQ\StockManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\SOAWithWCFandLINQ\StockManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.pdb

@@ -1,0 +1,7 @@
+C:\SOAWithWCFandLINQ\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.exe
+C:\SOAWithWCFandLINQ\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.pdb
+C:\SOAWithWCFandLINQ\StockManagementSystem\StockManagementSystem\bin\Debug\BusinessLayer.dll
+C:\SOAWithWCFandLINQ\StockManagementSystem\StockManagementSystem\bin\Debug\BusinessLayer.pdb
+C:\SOAWithWCFandLINQ\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.csprojResolveAssemblyReference.cache
+C:\SOAWithWCFandLINQ\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.exe
+C:\SOAWithWCFandLINQ\StockManagementSystem\StockManagementSystem\obj\x86\Debug\StockManagementSystem.pdb
